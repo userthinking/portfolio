@@ -11,7 +11,7 @@ const Hero = () => {
         {/* Profile Image */}
         <div>
           <img
-            src={image}
+            src="https://img.freepik.com/premium-vector/man-neon-sign-vector-illustration-business-promotion_520826-307.jpg"
             className="w-[250px] md:w-[300px] cursor-pointer rounded-full shadow-lg shadow-indigo-900 transition-all duration-300 
             hover:-translate-y-3 hover:scale-105 hover:shadow-indigo-600"
             alt="profile"
